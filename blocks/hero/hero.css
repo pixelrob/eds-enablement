@@ -17,6 +17,8 @@ main .hero-container {
   margin-left: auto;
   margin-right: auto;
   color: white;
+  background: rgb(0 0 0 / .4);
+  padding: .5em 1em;
 }
 
 .hero picture {
