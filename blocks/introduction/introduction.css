@@ -1,0 +1,14 @@
+.introduction div > div > h1 {
+    margin-bottom: -1em;
+    background: burlywood;
+    padding: .5em 1em;
+    border-radius: 1em 1em 0;
+}
+
+.introduction div > div > em {
+    margin-left: 10em;
+    background: burlywood;
+    padding: 2.5em 2em;
+    border-radius: 1em;
+    display: block;
+}
